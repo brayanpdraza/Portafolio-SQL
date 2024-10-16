@@ -1,0 +1,19 @@
+
+
+.technologies-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centra los íconos horizontalmente */
+    gap: 15px;
+}
+
+.technology-item {
+    text-align: center;
+    width: 100px;
+}
+
+.technology-icon {
+    width: 100px;
+    height: 90px;
+    object-fit: contain;
+}

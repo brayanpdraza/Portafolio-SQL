@@ -1,0 +1,55 @@
+.navbar {
+  background-image: url('../images/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.png'); /* Ruta a la imagen de fondo */
+  background-size: cover; /* Ajusta la imagen a la proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-position: center; /* Centra la imagen */
+  min-height: 220px; /* Ajusta este valor según tus necesidades */
+  position: relative; /* Necesario para el efecto de desenfoque */
+  padding: 10px; /* Espaciado interno */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  backdrop-filter: blur(10px); /* Aplica un desenfoque al fondo */
+  position: relative; /* Necesario para la posición absoluta de .abstract */
+}
+
+.navbar-brand h1 {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin: 0;
+    text-shadow: 2px 2px 4px #000000; /* Cambia los valores según tus preferencias */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.user-menu {
+  display: flex;
+  align-items: center;
+  padding: 10px; /* Espaciado interno */
+  background: linear-gradient(135deg, rgba(106, 130, 251, 0.5), rgba(252, 92, 125, 0.5)); /* Gradiente más ligero */
+  border-radius: 10px; /* Bordes redondeados */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para profundidad */
+  margin-left: auto; /* Empuja el menú de usuario a la derecha */
+}
+
+  .user-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 30px;
+  }
+  
+  .user-details h2 {
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px #000000; /* Cambia los valores según tus preferencias */
+  }
+  
+  .user-details p {
+    margin: 5px 0;
+    color: white;
+    text-shadow: 1px 1px 2px #000000; /* Cambia los valores según tus preferencias */
+  }
