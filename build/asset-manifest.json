@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e133d569.css",
+    "main.js": "./static/js/main.6349dd57.js",
+    "static/js/453.1c38f5e6.chunk.js": "./static/js/453.1c38f5e6.chunk.js",
+    "static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.png": "./static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.c9c1f27af2076cba8adc.png",
+    "index.html": "./index.html",
+    "main.e133d569.css.map": "./static/css/main.e133d569.css.map",
+    "main.6349dd57.js.map": "./static/js/main.6349dd57.js.map",
+    "453.1c38f5e6.chunk.js.map": "./static/js/453.1c38f5e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e133d569.css",
+    "static/js/main.6349dd57.js"
+  ]
+}
