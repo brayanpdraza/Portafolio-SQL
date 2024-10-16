@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brayanpdraza/Portafolio-SQL.git/build/static/css/main.1ae5cf7a.css",
+    "main.js": "/brayanpdraza/Portafolio-SQL.git/build/static/js/main.d4d064d9.js",
+    "static/js/453.1c38f5e6.chunk.js": "/brayanpdraza/Portafolio-SQL.git/build/static/js/453.1c38f5e6.chunk.js",
+    "static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.png": "/brayanpdraza/Portafolio-SQL.git/build/static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.c9c1f27af2076cba8adc.png",
+    "index.html": "/brayanpdraza/Portafolio-SQL.git/build/index.html",
+    "main.1ae5cf7a.css.map": "/brayanpdraza/Portafolio-SQL.git/build/static/css/main.1ae5cf7a.css.map",
+    "main.d4d064d9.js.map": "/brayanpdraza/Portafolio-SQL.git/build/static/js/main.d4d064d9.js.map",
+    "453.1c38f5e6.chunk.js.map": "/brayanpdraza/Portafolio-SQL.git/build/static/js/453.1c38f5e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae5cf7a.css",
+    "static/js/main.d4d064d9.js"
+  ]
+}
