@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portafolio-SQL/static/css/main.83f34063.css",
-    "main.js": "/Portafolio-SQL/static/js/main.f2308302.js",
+    "main.js": "/Portafolio-SQL/static/js/main.5e2b860e.js",
     "static/js/453.1c38f5e6.chunk.js": "/Portafolio-SQL/static/js/453.1c38f5e6.chunk.js",
     "static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.png": "/Portafolio-SQL/static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.c9c1f27af2076cba8adc.png",
     "index.html": "/Portafolio-SQL/index.html",
     "main.83f34063.css.map": "/Portafolio-SQL/static/css/main.83f34063.css.map",
-    "main.f2308302.js.map": "/Portafolio-SQL/static/js/main.f2308302.js.map",
+    "main.5e2b860e.js.map": "/Portafolio-SQL/static/js/main.5e2b860e.js.map",
     "453.1c38f5e6.chunk.js.map": "/Portafolio-SQL/static/js/453.1c38f5e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83f34063.css",
-    "static/js/main.f2308302.js"
+    "static/js/main.5e2b860e.js"
   ]
 }
