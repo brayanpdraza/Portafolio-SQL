@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.e133d569.css",
-    "main.js": "./static/js/main.deca31d4.js",
-    "static/js/453.1c38f5e6.chunk.js": "./static/js/453.1c38f5e6.chunk.js",
-    "static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.png": "./static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.c9c1f27af2076cba8adc.png",
-    "index.html": "./index.html",
-    "main.e133d569.css.map": "./static/css/main.e133d569.css.map",
-    "main.deca31d4.js.map": "./static/js/main.deca31d4.js.map",
-    "453.1c38f5e6.chunk.js.map": "./static/js/453.1c38f5e6.chunk.js.map"
+    "main.css": "/Portafolio-SQL/static/css/main.83f34063.css",
+    "main.js": "/Portafolio-SQL/static/js/main.f2308302.js",
+    "static/js/453.1c38f5e6.chunk.js": "/Portafolio-SQL/static/js/453.1c38f5e6.chunk.js",
+    "static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.png": "/Portafolio-SQL/static/media/sunlight-sunset-sea-anime-reflection-sky-619491-wallhere.com.c9c1f27af2076cba8adc.png",
+    "index.html": "/Portafolio-SQL/index.html",
+    "main.83f34063.css.map": "/Portafolio-SQL/static/css/main.83f34063.css.map",
+    "main.f2308302.js.map": "/Portafolio-SQL/static/js/main.f2308302.js.map",
+    "453.1c38f5e6.chunk.js.map": "/Portafolio-SQL/static/js/453.1c38f5e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e133d569.css",
-    "static/js/main.deca31d4.js"
+    "static/css/main.83f34063.css",
+    "static/js/main.f2308302.js"
   ]
 }
